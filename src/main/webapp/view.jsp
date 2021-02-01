@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td>Phone :</td>
-        <td>${requestScope["students"].phoneNumber}</td>
+        <td>0${requestScope["students"].phoneNumber}</td>
     </tr>
     <tr>
         <td>Age :</td>
